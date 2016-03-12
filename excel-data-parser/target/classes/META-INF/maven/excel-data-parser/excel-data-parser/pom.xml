@@ -19,6 +19,13 @@
 	</build>
 
 	<dependencies>
+		<!-- Domínio NutrIF -->
+		<dependency>
+			<groupId>br.edu.ifpb.ladoss</groupId>
+			<artifactId>NutrIF_Commons</artifactId>
+			<version>1.0</version>
+		</dependency>
+	
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
